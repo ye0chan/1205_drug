@@ -1,0 +1,8 @@
+# Tested with Python 3.11; Python 3.12 is also recommended.
+# Deploy app.py, then run: streamlit run app.py
+streamlit==1.51.0
+requests==2.32.5
+Pillow==11.3.0
+reportlab==4.4.4
+zxing-cpp==2.3.0
+tzdata>=2025.2
